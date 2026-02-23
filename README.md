@@ -20,5 +20,4 @@ Además de los datos, mis otras dos pasiones son:
 ---
 📫 Cómo encontrarme:
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />](mailto:elcorreodemichel@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="20" />](https://instagram.com/michelperezphotography) &nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />](mailto:elcorreodemichel@gmail.com) 
