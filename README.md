@@ -16,7 +16,6 @@ En este perfil encontrarás mi colección de **scripts de administración, proce
 ### 🌿 Más allá del código
 Además de los datos, mis otras dos pasiones son:
 * 🚲 **Cicloturismo:** Explorando rutas y kilómetros.
-* 📸 **Fotografía de naturaleza:** Capturando el entorno natural.
-
+* 📸 **Fotografía de naturaleza:** Capturando el entorno natural. &nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />](https://instagram.com/michelperezphotography) 
 ---
 📫 Cómo encontrarme: [Enlace a tu LinkedIn o Web si tienes]
