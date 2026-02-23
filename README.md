@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Michel 👋
 
-<!--
-**elrepositoriodemichel/elrepositoriodemichel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Perfil Profesional
+Mi viaje en el mundo de los datos comenzó con **MS Access**, evolucionando a lo largo de más de **20 años de carrera como desarrollador con diferentes plataformas**. Siempre me he mantenido cerca del diseño y la gestión de datos, convirtiendo a **`SQL Server`** en uno de los pilares fundamentales de mi faceta técnica.
 
-Here are some ideas to get you started:
+### 🎯 Certificaciones y Credenciales
+* 🎓 **Curso Superior:** [Administración de Redes en Sistemas y Bases de Datos (Windows Server + SQL Server)](https://app.educasign.ai/validation/424b3781-4967-4cdb-bc89-991c9b626844).
+* ☁️ **Certificado:** [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/es-mx/MichelPerez/ADA62B7438A1C23F?sharingId=726474E18438943E).
+* 📚 **En progreso:** Preparándome para la certificación **DP-300** (Administering Microsoft Azure SQL Solutions).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mis Proyectos
+En este perfil encontrarás mi colección de **scripts de administración, procesos y utilidades para SQL Server**, donde vuelco mi experiencia y avances técnicos para facilitar el manejo de bases de datos.
+
+---
+
+### 🌿 Más allá del código
+Además de los datos, mis otras dos pasiones son:
+* 🚲 **Cicloturismo:** Explorando rutas y kilómetros.
+* 📸 **Fotografía de naturaleza:** Capturando el entorno natural.
+
+---
+📫 Cómo encontrarme: [Enlace a tu LinkedIn o Web si tienes]
