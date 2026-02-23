@@ -9,7 +9,7 @@ Mi viaje en el mundo de los datos comenzó con **MS Access**, evolucionando a lo
 * 📚 **En progreso:** Preparándome para la certificación **DP-300** (Administering Microsoft Azure SQL Solutions).
 
 ### 🛠️ Mis Proyectos
-En este perfil encontrarás mi colección de **scripts de administración, procesos y utilidades para SQL Server**, donde vuelco mi experiencia y avances técnicos para facilitar el manejo de bases de datos.
+En este perfil encontrarás mi colección de [**scripts de administración, procesos y utilidades para SQL Server**](https://github.com/elrepositoriodemichel/Admin-T-SQL), donde vuelco mi experiencia y avances técnicos para facilitar el manejo de bases de datos.
 
 ---
 
