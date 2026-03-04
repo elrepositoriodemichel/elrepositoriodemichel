@@ -19,7 +19,7 @@
 
 | Estado | Certificación |
 |:---:|---|
-| ✅ | [**Microsoft Azure Fundamentals** — AZ-900](https://app.educasign.ai/validation/424b3781-4967-4cdb-bc89-991c9b626844) |
+| ✅ | [**Microsoft Azure Fundamentals** — AZ-900](https://learn.microsoft.com/api/credentials/share/es-es/MichelPerez/ADA62B7438A1C23F?sharingId=726474E18438943E) |
 | ✅ | [**Curso Superior** — Administración de Redes, Windows Server + SQL Server](https://app.educasign.ai/validation/424b3781-4967-4cdb-bc89-991c9b626844) |
 | 🔄 | **Administering Microsoft Azure SQL Solutions** — DP-300 *(en progreso)* |
 
