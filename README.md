@@ -34,7 +34,7 @@ Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQ
 
 Mantengo un entorno de laboratorio propio (Active Directory, PKI, clúster SQL Server con FCI y AG) donde pruebo y documento escenarios reales de administración: gMSA, alta disponibilidad, certificados TLS, aplicación de CU y sincronización de metadatos entre réplicas.
 
-👉 **[Ver detalle del laboratorio y artículos publicados](./laboratorio/README.md)**
+👉 **[Ver detalle del laboratorio y artículos publicados](https://github.com/elrepositoriodemichel/laboratorio)**
 
 ---
 
