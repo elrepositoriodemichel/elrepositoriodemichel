@@ -1,14 +1,14 @@
-# 👋 Hola, soy Michel Pérez
+# Hola, soy Michel Pérez
 
 **Profesional de datos con más de 20 años de experiencia**, transitando de desarrollador SQL a administrador de plataformas de datos. Mi trayectoria comenzó con MS Access y ha evolucionado a través de múltiples tecnologías hasta consolidar SQL Server como mi especialización técnica.
 
-Durante años he colaborado con equipos de DBA como **developer especializado en datos**: optimizando consultas, diseñando modelos eficientes y actuando como puente entre desarrollo y administración. Esta experiencia dual me ha llevado a formalizar mi transición hacia la **administración de bases de datos y arquitecturas cloud**.
+Durante años he colaborado con equipos de DBA como **desarrollador especializado en datos**: optimizando consultas, diseñando modelos eficientes y actuando como puente entre desarrollo y administración. Esta experiencia dual me ha llevado a formalizar mi transición hacia la **administración de bases de datos y arquitecturas cloud**.
 
 Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQL Solutions)**. El material de este repositorio documenta mis laboratorios prácticos: scripts de administración, diagnóstico de rendimiento, estrategias de backup/restore y automatización de tareas operativas.
 
 ---
 
-## 🧰 Stack Tecnológico
+## Stack Tecnológico
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -20,7 +20,7 @@ Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQ
 
 ---
 
-## 🎯 Certificaciones y Formación
+## Certificaciones y Formación
 
 | Estado | Certificación | Relevancia |
 |:---:|---|:---|
@@ -30,17 +30,25 @@ Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQ
 
 ---
 
-## 🧪 Laboratorio
+## Laboratorios
 
-Mantengo un entorno de laboratorio propio (Active Directory, PKI, clúster SQL Server con FCI y AG) donde pruebo y documento escenarios reales de administración: gMSA, alta disponibilidad, certificados TLS, aplicación de CU y sincronización de metadatos entre réplicas.
+Mantengo un entorno de laboratorios propio en Hyper-V, de los que iré compartiendo detalles para su despliegue y comentando las características más relevantes a reseñar. Estos laboratorios están centrados en **alta disponibilidad de SQL Server sobre Windows Server**:
 
-👉 **[Ver detalle del laboratorio y artículos publicados](https://github.com/elrepositoriodemichel/laboratorio)**
+- **Base común:** Servidor con el rol AD DS
+- **Laboratorio de FCI con iSCSI** (publicado)
+- **Laboratorio de FCI sobre S2D** (planificado).
+- **Laboratorio de AG** **Availability Groups** (planificado).
+- **Artículos comunes:** WSFC, gMSA y otros.
+
+He sometido cada laboratorio a pruebas de failover planificado y no planificado, pérdida de rutas de almacenamiento y pruebas de reconexión del cliente.
+
+👉 **[Ver índice general y laboratorios](https://github.com/elrepositoriodemichel/Laboratorio#readme)**
 
 ---
 
-## 🛠️ Proyectos de Administración de Datos
+## Administración de Bases de Datos
 
-Repositorio [**Admin-T-SQL**](https://github.com/elrepositoriodemichel/Admin-T-SQL): Colección de utilidades para operación, diagnóstico y gestión de SQL Server. Cada script incluye documentación técnica, parámetros configurables y casos de uso.
+El repositorio [**Admin-T-SQL**](https://github.com/elrepositoriodemichel/Admin-T-SQL) incluye una colección de utilidades para la realización de operaciones, diagnóstico y gestión de SQL Server. Cada script incluye documentación técnica, parámetros configurables y casos de uso.
 
 | Utilidad | Área DBA | Descripción |
 |:---|:---|:---|
@@ -51,15 +59,9 @@ Repositorio [**Admin-T-SQL**](https://github.com/elrepositoriodemichel/Admin-T-S
 | [OldestActiveTransactions](https://github.com/elrepositoriodemichel/Admin-T-SQL/tree/main/OldestActiveTransactions) | **Diagnóstico** | Detección de transacciones largas y sesiones idle |
 | [LogFileInfo](https://github.com/elrepositoriodemichel/Admin-T-SQL/tree/main/LogFileInfo) | **Monitoreo** | Informe de estado y crecimiento de ficheros de log |
 
-**Enfoque de los laboratorios:**
-- Automatización de tareas operativas (jobs, maintenance plans, PowerShell)
-- Estrategias de alta disponibilidad y disaster recovery
-- Optimización de recursos y query tuning
-- Migración on-premise → Azure SQL
-
 ---
 
-## 📊 Perfil
+## Perfil
 
 ![Repos](https://img.shields.io/badge/Repositorios%20públicos-2-0078D4?style=for-the-badge&logo=github&logoColor=white)
 ![Especialización](https://img.shields.io/badge/Especialización-DBA%20SQL%20Server-CC2927?style=for-the-badge)
@@ -67,7 +69,7 @@ Repositorio [**Admin-T-SQL**](https://github.com/elrepositoriodemichel/Admin-T-S
 
 ---
 
-## 🌱 Más allá del código
+## Más allá del código
 
 Cuando no estoy delante de una query o una instancia de SQL Server:
 
@@ -76,7 +78,7 @@ Cuando no estoy delante de una query o una instancia de SQL Server:
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elcorreodemichel@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elrepositoriodemichel)
