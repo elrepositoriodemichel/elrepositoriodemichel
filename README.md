@@ -36,8 +36,8 @@ Mantengo un entorno de laboratorios propio en Hyper-V, de los que iré compartie
 
 - **Base común:** Servidor con el rol AD DS
 - **Laboratorio de FCI con iSCSI** (publicado)
-- **Laboratorio de FCI sobre S2D** (planificado).
-- **Laboratorio de AG** **Availability Groups** (planificado).
+- **Laboratorio de FCI sobre S2D** (publicación planificada).
+- **Laboratorio de AG** **Availability Groups** (publicación planificada).
 - **Artículos comunes:** WSFC, gMSA y otros.
 
 He sometido cada laboratorio a pruebas de failover planificado y no planificado, pérdida de rutas de almacenamiento y pruebas de reconexión del cliente.
