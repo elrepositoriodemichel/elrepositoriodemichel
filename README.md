@@ -4,7 +4,7 @@
 
 Durante años he colaborado con equipos de DBA como **desarrollador especializado en datos**: optimizando consultas, diseñando modelos eficientes y actuando como puente entre desarrollo y administración. Esta experiencia dual me ha llevado a formalizar mi transición hacia la **administración de bases de datos y arquitecturas cloud**.
 
-Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQL Solutions)**. El material de este repositorio documenta mis laboratorios prácticos: scripts de administración, diagnóstico de rendimiento, estrategias de backup/restore y automatización de tareas operativas.
+Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQL Solutions)**. La intención de este repositorio es documentar mis diferentes laboratorios prácticos, scripts de administración, diagnósticos de rendimiento, estrategias de copias y restauración, alta disponibilidad, etc.
 
 ---
 
@@ -16,6 +16,7 @@ Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQ
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ---
@@ -32,7 +33,7 @@ Actualmente preparo la certificación **DP-300 (Administering Microsoft Azure SQ
 
 ## Laboratorios
 
-Mantengo un entorno de laboratorios propio en Hyper-V, de los que iré compartiendo detalles para su despliegue y comentando las características más relevantes a reseñar. Estos laboratorios están centrados en **alta disponibilidad de SQL Server sobre Windows Server**:
+Mantengo un entorno de laboratorios propio en Hyper-V, de los que iré compartiendo detalles para su despliegue y comentando las características más relevantes de cada uno de ellos. Estos laboratorios están centrados en **alta disponibilidad de SQL Server sobre Windows Server**:
 
 - **Base común:** Servidor con el rol AD DS
 - **Laboratorio de FCI con iSCSI** (publicado)
@@ -40,9 +41,11 @@ Mantengo un entorno de laboratorios propio en Hyper-V, de los que iré compartie
 - **Laboratorio de AG** **Availability Groups** (publicación planificada).
 - **Artículos comunes:** WSFC, gMSA y otros.
 
-He sometido cada laboratorio a pruebas de failover planificado y no planificado, pérdida de rutas de almacenamiento y pruebas de reconexión del cliente.
+Todos estos laboratorios los tengo actualmente desplegados, no obstante estoy volviendo a reconstruirlos en esta ocasión a través de PowerShell, documentándolo y permitiendo así que cualquiera pueda reproducirlos.
 
-👉 **[Ver índice general y laboratorios](https://github.com/elrepositoriodemichel/Laboratorio#readme)**
+Los laboratorios no han sido un mero ejercicio de despliegue, estos los he utilizado para realizar tareas de administración, como pruebas de failover planificado y no planificado, test de pérdidas de rutas de almacenamiento y pruebas de reconexión del cliente, despliegue de estrategias de backup, etc.
+
+👉 **[Ver repositorio específico de los laboratorios](https://github.com/elrepositoriodemichel/Laboratorio#readme)**
 
 ---
 
@@ -74,7 +77,7 @@ El repositorio [**Admin-T-SQL**](https://github.com/elrepositoriodemichel/Admin-
 Cuando no estoy delante de una query o una instancia de SQL Server:
 
 - 🚴 **Cicloturismo** — explorando rutas y kilómetros
-- 📷 **Fotografía de naturaleza** — capturando el entorno natural &nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="15" height="15" />](https://instagram.com/lasfotosdemichel) 
+- 📷 **Fotografía de naturaleza** — capturando el entorno natural &nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="15" height="15" />](https://instagram.com/lasfotosdemichel) &nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="15" height="15" />](https://facebook.com/elfacebookdemichel) 
 
 ---
 
