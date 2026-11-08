@@ -45,7 +45,7 @@ Todos estos laboratorios los tengo actualmente desplegados, no obstante estoy vo
 
 Los laboratorios no han sido un mero ejercicio de despliegue, estos los he utilizado para realizar tareas de administración, como pruebas de failover planificado y no planificado, test de pérdidas de rutas de almacenamiento y pruebas de reconexión del cliente, despliegue de estrategias de backup, etc.
 
-👉 **[Ver repositorio específico de los laboratorios](https://github.com/elrepositoriodemichel/Laboratorio#readme)**
+👉 **[Ver repositorio específico de los laboratorios](https://github.com/elrepositoriodemichel/Laboratorios#readme)**
 
 ---
 
