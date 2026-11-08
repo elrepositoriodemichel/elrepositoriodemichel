@@ -77,7 +77,7 @@ El repositorio [**Admin-T-SQL**](https://github.com/elrepositoriodemichel/Admin-
 Cuando no estoy delante de una query o una instancia de SQL Server:
 
 - 🚴 **Cicloturismo** — explorando rutas y kilómetros
-- 📷 **Fotografía de naturaleza** — capturando el entorno natural &nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="15" height="15" />](https://instagram.com/lasfotosdemichel) &nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="15" height="15" />](https://facebook.com/elfacebookdemichel) 
+- 📷 **Fotografía de naturaleza** — capturando el entorno natural &nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="15" height="15" />](https://instagram.com/lasfotosdemichel)
 
 ---
 
